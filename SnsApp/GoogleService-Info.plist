@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>696059559041-buc277eren6pp7cpa16jt179ulg48dk0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.696059559041-buc277eren6pp7cpa16jt179ulg48dk0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCe8qvw8VfZGk9yeWcm6rxjzeY9QEAsh3A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>696059559041</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>createmyself-hechizan.com.SnsApp</string>
+	<key>PROJECT_ID</key>
+	<string>snsapp-332d5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snsapp-332d5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:696059559041:ios:9151369e0e9671520d2180</string>
+</dict>
+</plist>
